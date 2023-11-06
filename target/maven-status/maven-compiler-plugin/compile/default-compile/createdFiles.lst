@@ -1,0 +1,3 @@
+com\junior\crud\entity\User.class
+com\junior\crud\service\UserService.class
+com\junior\crud\dao\UserDao.class
